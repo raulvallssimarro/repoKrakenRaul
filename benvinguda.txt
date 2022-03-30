@@ -4,3 +4,4 @@ Raül Valls Aranda
 (C) Benvinguda a la branca 02 Raül
 (D) Modificació 02 Main Raül
 (E) Afegim imatge a branca 01 Raül
+(F) Afegim imatge a branca02 Raül
